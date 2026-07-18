@@ -1,5 +1,5 @@
 # IP-Reputation-Checker
-A Python command-line tool that checks the reputation of any IP address using the **AbuseIPDB** API — a real, industry-used threat intelligence database.
+A Python command-line tool that checks the reputation of any IP address using the **AbuseIPDB** API  a real, industry-used threat intelligence database.
 
 ## Features
 - Real-time IP reputation lookup
